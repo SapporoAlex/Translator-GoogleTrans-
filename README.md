@@ -48,7 +48,7 @@ file_name = "example.xlsx"  # Replace "example.xlsx" with your file's name
 
 Run the script:
 
-```bash
+``bash
 python translator.py
 ``
 
