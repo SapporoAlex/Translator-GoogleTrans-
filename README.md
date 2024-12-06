@@ -44,13 +44,13 @@ Update the script with the name of your file:
 
 ```python
 file_name = "example.xlsx"  # Replace "example.xlsx" with your file's name
-```
+``
 
 Run the script:
 
 ```bash
 python translator.py
-```
+``
 
 The translated file will be saved as:
 
