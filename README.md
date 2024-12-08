@@ -56,15 +56,18 @@ The translated file will be saved as:
 
 ```php
 Translated <original_file_name>.xlsx
+
 Example
 Input Excel File (example.xlsx):
+
 Column A (Japanese)	Column B (English)
 こんにちは	
-元気ですか？	
+元気ですか？
+
 After Running the Script:
 Column A (Japanese)	Column B (English)
-こんにちは	Hello
-元気ですか？	How are you?
+こんにちは	         Hello
+元気ですか？	         How are you?
 ```
 
 ## Notes
