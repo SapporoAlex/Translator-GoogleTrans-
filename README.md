@@ -32,8 +32,8 @@ Ensure you have the following installed:
 
 2. Install dependencies:
    ```bash
-  pip install openpyxl googletrans==4.0.0-rc1
-  ``
+   pip install openpyxl googletrans==4.0.0-rc1
+   ```
 
 ## Usage
 Place the Excel file you want to translate in the same directory as the script.
